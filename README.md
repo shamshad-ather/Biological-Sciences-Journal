@@ -5,4 +5,4 @@ WoS.xlsx = Web of Science indexed journals
 
 pubmed.xlsx = PubMed indexed journals
 
-common_journals_wos_pubmed.xlsx = Common journals present at bot places
+common_journals_wos_pubmed.xlsx = Common journals
